@@ -1,0 +1,11 @@
+/Users/jaseera/Desktop/SumNumbers/SumApp/SumApp/bin/Debug/netcoreapp2.2/SumApp.deps.json
+/Users/jaseera/Desktop/SumNumbers/SumApp/SumApp/bin/Debug/netcoreapp2.2/SumApp.runtimeconfig.json
+/Users/jaseera/Desktop/SumNumbers/SumApp/SumApp/bin/Debug/netcoreapp2.2/SumApp.runtimeconfig.dev.json
+/Users/jaseera/Desktop/SumNumbers/SumApp/SumApp/bin/Debug/netcoreapp2.2/SumApp.dll
+/Users/jaseera/Desktop/SumNumbers/SumApp/SumApp/bin/Debug/netcoreapp2.2/SumApp.pdb
+/Users/jaseera/Desktop/SumNumbers/SumApp/SumApp/obj/Debug/netcoreapp2.2/SumApp.csprojAssemblyReference.cache
+/Users/jaseera/Desktop/SumNumbers/SumApp/SumApp/obj/Debug/netcoreapp2.2/SumApp.csproj.CoreCompileInputs.cache
+/Users/jaseera/Desktop/SumNumbers/SumApp/SumApp/obj/Debug/netcoreapp2.2/SumApp.AssemblyInfoInputs.cache
+/Users/jaseera/Desktop/SumNumbers/SumApp/SumApp/obj/Debug/netcoreapp2.2/SumApp.AssemblyInfo.cs
+/Users/jaseera/Desktop/SumNumbers/SumApp/SumApp/obj/Debug/netcoreapp2.2/SumApp.dll
+/Users/jaseera/Desktop/SumNumbers/SumApp/SumApp/obj/Debug/netcoreapp2.2/SumApp.pdb

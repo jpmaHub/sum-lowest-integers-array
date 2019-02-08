@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumApp", "SumApp\SumApp.csproj", "{3A1F309C-F86D-492B-9156-92D6C6BF5011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumTest", "sumTest\sumTest.csproj", "{D8089BEF-48FF-4D9C-9430-4A18025392BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A1F309C-F86D-492B-9156-92D6C6BF5011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1F309C-F86D-492B-9156-92D6C6BF5011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1F309C-F86D-492B-9156-92D6C6BF5011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1F309C-F86D-492B-9156-92D6C6BF5011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8089BEF-48FF-4D9C-9430-4A18025392BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8089BEF-48FF-4D9C-9430-4A18025392BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8089BEF-48FF-4D9C-9430-4A18025392BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8089BEF-48FF-4D9C-9430-4A18025392BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
