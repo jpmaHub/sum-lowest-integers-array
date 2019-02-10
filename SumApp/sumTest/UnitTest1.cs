@@ -1,7 +1,6 @@
 using System;
 using SumApp;
 using NUnit.Framework;
-using System;
 using System.Collections.Generic;
 
 
